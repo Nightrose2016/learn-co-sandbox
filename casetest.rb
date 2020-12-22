@@ -1,0 +1,3 @@
+case greeting
+# ...
+end
